@@ -134,8 +134,7 @@ AccuracyBonus = CorrectSelections / TotalSelections * 100
 ### Controls
 - **Mouse:** Click on number tiles
 - **Touch:** Tap on number tiles
-- **ESC/Menu Button:** Return to main menu
-- **R:** Restart current level
+- **Restart Button:** Restart current level
 
 ---
 
