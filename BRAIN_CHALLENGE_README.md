@@ -167,10 +167,10 @@ open BrainChallenge.sln
 
 | Metric | Value |
 |--------|-------|
-| Development Time | ~2 months |
+| Development Time | ~1 months |
 | Code Lines | 1,200+ |
-| Game Scenes | 4 |
-| Difficulty Levels | 4 |
+| Game Scenes | 2 |
+| Difficulty Levels | 3 |
 | Total Numbers Tested | 50+ |
 | Performance FPS | 60+ |
 
@@ -199,7 +199,6 @@ open BrainChallenge.sln
 ✅ **Data Management**
 - Player statistics tracking
 - Score persistence
-- Save/load functionality
 
 ---
 
