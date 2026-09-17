@@ -125,7 +125,7 @@ AccuracyBonus = CorrectSelections / TotalSelections * 100
 
 ## 🚀 How to Play
 
-1. **Download** from [Itch.io](https://itch.io/@SreejithHariharan)
+1. **Play** from [Itch.io](https://sreejith-hariharan.itch.io/brain-challenge)
 2. **Select Difficulty** - Choose your challenge level
 3. **Find Numbers** - Click/tap numbers in order (1 → 2 → 3 → ...)
 4. **Beat Your Score** - Complete as fast as possible
