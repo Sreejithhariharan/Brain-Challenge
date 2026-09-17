@@ -160,9 +160,6 @@ open BrainChallenge.sln
 
 ### Supported Platforms
 - ✅ WebGL (Browser)
-- ✅ Windows (Standalone)
-- ✅ Mac (Standalone)
-- 🔜 Mobile (in development)
 
 ---
 
